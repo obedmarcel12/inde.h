@@ -903,6 +903,11 @@ video {
   border-color: rgb(0 0 255 / var(--tw-border-opacity));
 }
 
+.border-\[orange\] {
+  --tw-border-opacity: 1;
+  border-color: rgb(255 165 0 / var(--tw-border-opacity));
+}
+
 .bg-\[\#ff9500e6\] {
   background-color: #ff9500e6;
 }
